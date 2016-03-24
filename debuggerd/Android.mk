@@ -15,7 +15,6 @@ LOCAL_SRC_FILES:= \
     debuggerd.cpp \
     elf_utils.cpp \
     getevent.cpp \
-    tombstone.cpp \
     utility.cpp \
 
 LOCAL_SRC_FILES_arm    := arm/machine.cpp
